@@ -4,7 +4,6 @@
 - 🌱 **Learning:** Python libraries like TensorFlow, Keras, and PyTorch, along with platforms like LangChain and HuggingFace.
 - 👩‍💻 **Interests:** Generative AI, LLMs and building innovative solutions.
 
-
 <h2 align="left"> About Me: </h2>
 I'm a passionate B.Tech student in Artificial Intelligence and Data Science with a curiosity-driven approach to learning. I love exploring the intersections of Natural Language Processing (NLP), RAG Systems,LLMs, and Generative AI, striving to create impactful solutions using the power of technology.
 
@@ -28,7 +27,4 @@ I'm a passionate B.Tech student in Artificial Intelligence and Data Science with
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000"/>
-</div>
-<div id="header" align="center">
-  <img src="" width="300"/>
 </div>
