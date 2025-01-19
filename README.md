@@ -7,9 +7,12 @@
 
 <h2 align="left"> About Me: </h2>
 I'm a passionate B.Tech student in Artificial Intelligence and Data Science with a curiosity-driven approach to learning. I love exploring the intersections of Natural Language Processing (NLP), RAG Systems,LLMs, and Generative AI, striving to create impactful solutions using the power of technology.
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
+</div>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
