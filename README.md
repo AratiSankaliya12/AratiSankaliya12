@@ -1,5 +1,16 @@
 <h1 align="center">Hello 👋,Myself Arati Sankaliya</h1>
-<h3 align="center">I'm a passionate B.Tech student in Artificial Intelligence and Data Science with a curiosity-driven approach to learning. I love exploring the intersections of Natural Language Processing (NLP), RAG Systems,LLMs, and Generative AI, striving to create impactful solutions using the power of technology.</h3>
+
+- 🔭 **Currently working on:** Classical Machine Learning and transitioning into Deep Learning & NLP.
+- 🌱 **Learning:** Python libraries like TensorFlow, Keras, and PyTorch, along with platforms like LangChain and HuggingFace.
+- 👩‍💻 **Interests:** Generative AI and building innovative solutions.
+
+
+<h2 align="left"> About Me: </h2>
+I'm a passionate B.Tech student in Artificial Intelligence and Data Science with a curiosity-driven approach to learning. I love exploring the intersections of Natural Language Processing (NLP), RAG Systems,LLMs, and Generative AI, striving to create impactful solutions using the power of technology.
+
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
